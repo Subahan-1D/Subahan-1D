@@ -1,4 +1,5 @@
-(https://ibb.co.com/fXD1C6r)
+
+<img align="right" alt="baner" width="400" src="https://ibb.co.com/fXD1C6r">
 <h1 align="center">Hi 👋, I'm subahan</h1>
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 

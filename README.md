@@ -5,23 +5,18 @@
 
 <p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
 
-
-
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
+<h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Next.js**
 
 - 🌱 I’m currently learning **JavaScript , React-Native & Go**
 
 - 💬 Talk to me about **React , Node.js ,JavaScript, Opportunities etc.**
 
-- 📫 How to reach me **subahanislam523@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 📫  Reach me at **subahanislam523@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

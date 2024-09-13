@@ -1,6 +1,6 @@
 ![banner (1)](https://github.com/user-attachments/assets/76c382e2-56d4-4156-8d7f-e83757c14fac)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
-<h1 align="center">Hi 👋, I'm subahan</h1>
+<h1 align="center">Hi 👋, I'm subahan ali</h1>
 <h3 align="center">A  PASSIONATE MERN STACK DEVELOPER FROM BD</h3>
 
 <div><img align="center"  width="1600" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></div>

@@ -1,5 +1,5 @@
 ![banner (1)](https://github.com/user-attachments/assets/76c382e2-56d4-4156-8d7f-e83757c14fac)
-<h1 align="center">Hi 👋, I'm subahan</h1>
+<h1 align="center">Hi [👋](https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif), I'm subahan</h1>
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>

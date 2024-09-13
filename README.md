@@ -1,10 +1,11 @@
 ![banner (1)](https://github.com/user-attachments/assets/76c382e2-56d4-4156-8d7f-e83757c14fac)
-<h1 align="center">Hi [👋](https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif), I'm subahan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
+<h1 align="center">Hi 👋, I'm subahan</h1>
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
+
 
 
 
@@ -31,10 +32,6 @@
 <a href="https://www.youtube.com/c/@subahanislam523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@subahanislam523" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Show Trophies:</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Subahan-1D)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Subahan-1D/contributions?format=svg&private=false)  
 
 
 <h3 align="left">Github Badges:</h3>

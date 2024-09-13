@@ -1,5 +1,4 @@
-
-![d](https://github.com/user-attachments/assets/b77cb18e-d2b1-488e-a2aa-0b019966dfd8)
+![ba](https://github.com/user-attachments/assets/7b9f39a3-869f-49e6-a7d0-5d4ce54f997b)
 <h1 align="center">Hi 👋, I'm subahan</h1>
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 

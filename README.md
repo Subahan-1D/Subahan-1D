@@ -23,7 +23,6 @@
 - ⚡ Fun fact **I am funny**
   
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subahan-1d&show_icons=true&locale=en&layout=compact" alt="subahan-1d" /></p>
 
 
 <h3 align="left">Connect with me:</h3>

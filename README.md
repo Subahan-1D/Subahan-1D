@@ -5,7 +5,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
-src="https://img.shields.io/twitter/follow/subahan1323225?logo=twitter&style=for-the-badge" alt="subahan1323225" /></a> </p>
 
 
 
@@ -14,7 +13,7 @@ src="https://img.shields.io/twitter/follow/subahan1323225?logo=twitter&style=for
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/file:///C:/Users/MD%20SUBAHAN%20ISLAM/Downloads/stacked-waves-haikei.svg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="file:///C:/Users/MD%20SUBAHAN%20ISLAM/Downloads/stacked-waves-haikei.svg" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subahan-1d&show_icons=true&locale=en&layout=compact" alt="subahan-1d" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subahan-1d&show_icons=true&locale=en" alt="subahan-1d" /></p>
 
@@ -29,6 +28,8 @@ src="https://img.shields.io/twitter/follow/subahan1323225?logo=twitter&style=for
 - 📫 How to reach me **subahanislam523@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subahan-1d&show_icons=true&locale=en&layout=compact" alt="subahan-1d" /></p>
 
 
 <h3 align="left">Connect with me:</h3>

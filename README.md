@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm subahan</h1>
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 
-<p><img align="items-center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
 
 
 

@@ -1,16 +1,17 @@
 ![banner (1)](https://github.com/user-attachments/assets/76c382e2-56d4-4156-8d7f-e83757c14fac)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
 <h1 align="center">Hi 👋, I'm subahan</h1>
-<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
+<h3 align="center">A  PASSIONATE MERN STACK DEVELOPER FROM BD</h3>
 
-<p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
+<div><img align="center"  width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Next.js**
+<h3 align="left" margin>About me:</h3>
+
+- 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **JavaScript , React-Native & Go**
 

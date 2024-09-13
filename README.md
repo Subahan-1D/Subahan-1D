@@ -1,5 +1,4 @@
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+(https://ibb.co.com/fXD1C6r)
 <h1 align="center">Hi 👋, I'm subahan</h1>
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 

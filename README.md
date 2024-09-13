@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm MD:SUBAHAN ALI</h1>
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
+src="https://img.shields.io/twitter/follow/subahan1323225?logo=twitter&style=for-the-badge" alt="subahan1323225" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/subahan1323225" target="blank"><img src="https://img.shields.io/twitter/follow/subahan1323225?logo=twitter&style=for-the-badge" alt="subahan1323225" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
-
-- 🌱 I’m currently learning **JavaScript , React-Native & Go**
-
-- 💬 Talk to me about **React , Node.js ,JavaScript, Opportunities etc.**
-
-- 📫 How to reach me **subahanislam523@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 
 
@@ -25,7 +18,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subahan-1d&show_icons=true&locale=en" alt="subahan-1d" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></p>
+
+
+- 🔭 I’m currently working on **Track Back**
+
+- 🌱 I’m currently learning **JavaScript , React-Native & Go**
+
+- 💬 Talk to me about **React , Node.js ,JavaScript, Opportunities etc.**
+
+- 📫 How to reach me **subahanislam523@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 
 
 <h3 align="left">Connect with me:</h3>

@@ -11,6 +11,7 @@
 
 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Track Back**
 
 - 🌱 I’m currently learning **JavaScript , React-Native & Go**
@@ -21,7 +22,6 @@
 
 - ⚡ Fun fact **I am funny**
   
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subahan-1d&show_icons=true&locale=en&layout=compact" alt="subahan-1d" /></p>
 

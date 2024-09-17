@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm subahan ali</h1>
 <h3 align="center">A  PASSIONATE MERN STACK DEVELOPER FROM BD</h3>
 
-<div><img align="center"  width="1600" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></div>
+<div><img align="center"  width="1500" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" /></div>
 
 <img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

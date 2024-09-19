@@ -1,7 +1,11 @@
 ![banner (1)](https://github.com/user-attachments/assets/76c382e2-56d4-4156-8d7f-e83757c14fac)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subahan-1d&label=Profile%20views&color=0e75b6&style=flat" alt="subahan-1d" /> </p>
 <h1 align="center">Hi 👋, I'm subahan ali</h1>
-<h3 align="center">A  PASSIONATE MERN STACK DEVELOPER FROM BD</h3>
+<p align="center">
+  <a href="https://github.com/shahedahmedutsho">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;MERN%20Stack%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=380&height=45&color=4B88F6">
+  </a>
+</p>
 
 <div align="center">
 <img align="center"  width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=subahan-1d&" alt="subahan-1d" />
